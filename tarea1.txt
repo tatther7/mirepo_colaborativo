@@ -1,2 +1,3 @@
-Este archivo fue creado como tarea de sincronización
+Este archivo fue creado como tarea de sincronizacion
+Limea añadida desde GitHub en la tarea
 Línea añadida en local en la tarea
